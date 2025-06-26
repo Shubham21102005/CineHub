@@ -140,15 +140,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - **Repository**: [https://github.com/Shubham21102005/CineHub](https://github.com/Shubham21102005/CineHub)
-- **Live Demo**: [Your deployed app URL]
 - **Issues**: [https://github.com/Shubham21102005/CineHub/issues](https://github.com/Shubham21102005/CineHub/issues)
 
 ## 👨‍💻 Author
 
 **Shubham**
 - GitHub: [@Shubham21102005](https://github.com/Shubham21102005)
-- LinkedIn: [Your LinkedIn Profile]
-
+- LinkedIn: https://www.linkedin.com/in/krshubham21/
 ## 🙏 Acknowledgments
 
 - [The Movie Database (TMDb)](https://www.themoviedb.org/) for providing the movie data API
